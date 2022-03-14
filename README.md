@@ -14,4 +14,4 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- Desktp-first workflow
+- Desktop-first workflow
